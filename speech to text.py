@@ -1,3 +1,5 @@
+# before imorting speech_recognation libray first install the libray using follwing command  "pip install SpeechRecognition==3.2.0"
+
 import speech_recognition as sr
 # replace the file name with your file name
 filename = "test2.wav"
